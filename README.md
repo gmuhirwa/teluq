@@ -1,2 +1,0 @@
-# teluq
-Documents for Teluq
